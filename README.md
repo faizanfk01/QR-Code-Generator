@@ -67,7 +67,7 @@ A QR code image that links directly to the provided URL.
 
 ```
 qr-code-generator/
-├── qrcode_generator.py   # Main Python program
+├── qr_code.py            # Main Python program
 ├── qrcode.png            # Generated QR Code (example output)
 ├── README.md             # Project documentation
 ```
